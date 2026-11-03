@@ -24,6 +24,22 @@ Em breve, novos projetos e experiências desenvolvidos durante minha jornada em 
 
 ---
 
+## 🛠️ Tecnologias
+
+**Conhecimentos em desenvolvimento:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Estudando:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+---
+
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephanie%20Tha%C3%ADs-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stephanietha%C3%ADs/)
