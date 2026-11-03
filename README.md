@@ -21,3 +21,11 @@ Fisioterapeuta, e social media, apaixonada por pessoas, comunicação e novas po
 
 Em breve, novos projetos e experiências desenvolvidos durante minha jornada em ADS!
 
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephanie%20Tha%C3%ADs-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stephanietha%C3%ADs/)
+
+
